@@ -1,0 +1,15 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cz.doublev.cordova.plugin.pdf2png": {
+            "PACKAGE_NAME": "com.app.achmea"
+        }
+    },
+    "dependent_plugins": {}
+}
